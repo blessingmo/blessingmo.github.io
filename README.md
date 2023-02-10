@@ -1,7 +1,7 @@
 
 # MSc Cyber Security, Course Portfolio
 
-Take a look at the eportfolio [here](https://blessingmo.github.io/eportfolio/), hosted using [GitHub Pages](https://pages.github.com/).
+Take a look at the eportfolio [here](https://blessingmo.github.io/), hosted using [GitHub Pages](https://pages.github.com/).
 
 ## Credits
 
