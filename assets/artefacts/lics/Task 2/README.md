@@ -1,4 +1,4 @@
-# Readme
+<!--- # Readme
 
 Task 2 was to make the planned application from Task 1, using Python, with an accompanying readme file, that was upto 800 words long.
 
@@ -35,3 +35,4 @@ Below is a list of areas of improvement I was given from the Task 2 feedback, al
 * I was told my test strategy could be described in detail. This is referring to Task 1 again I presume, where I was instructed to plan a test strategy. In my Task 2 readme, I didn't provide instructions specifically on how to enter debug mode, because I provided instructions on how to use the application as a whole, and debug mode was simply an option amongst the others. The readme file explained what debug mode does, so I don't think that was the problem either. The use of guardians to control input and output states was explained too, in the readme and in the code itself. I'm unsure how else this could be relevant to Task 2.
 
 Beyond some minor changes, namely: function nesting and option nesting; I don't really know how to improve within this task. I don't believe the feedback alone justifies the 23% marks I lost for the assignment, given the rubrik. I would love more constructive feedback. At the moment, I find the feedback policy unethical for allowing what appears to be an ignorance of teaching-responsibility, beyond the role of qualification gatekeeping. We pay for an education, as well as the chance for obtaining a qualification, so I definately expect guidance.
+-->
