@@ -1,4 +1,4 @@
-# Readme
+<!--- # Readme
 
 Task 4 was to write a 2000 word argument for the adoption of a chosen technology by a chosen company.
 
@@ -63,4 +63,4 @@ This portion of the feedback was the most clear, and provided constructive criti
 
 ### <ins>Academic Intregrity</ins>
 
-I was told that I used too many online sources which was suprising to me in the days of the world wide web. The feedback dismisses my use of academic journals and articles because I included some websites that host examples of digital assistants in the references. I had included them because I felt it was fair. Those sources were not used as a source of academic accounts. I atleast know how to get more marks in this section next time.
+I was told that I used too many online sources which was suprising to me in the days of the world wide web. The feedback dismisses my use of academic journals and articles because I included some websites that host examples of digital assistants in the references. I had included them because I felt it was fair. Those sources were not used as a source of academic accounts. I atleast know how to get more marks in this section next time. -->
