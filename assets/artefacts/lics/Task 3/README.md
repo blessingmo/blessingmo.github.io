@@ -1,4 +1,4 @@
-# Readme
+<!--- # Readme
 
 Task 3 was to design MySQL queries for a given problem set and database, along with a readme file demonstrating understanding.
 
@@ -35,4 +35,4 @@ In total, my score was 93%. I was given additional comments too:
 Overall, I'm extremely chuffed to have gotten the score I did. I've done challenges like this in the past on sites such as [LeetCode](https://leetcode.com/tag/database/) before. In fact, the LeetCode challenges I'm used to are much more difficult.
 
 As for the feedback, I have no idea what was meant by my solution to Problem 1 being too intricate, which resulted in a -4 % deduction.
-I do however believe my solution to Problem 2 might be more complex than necessary, but no alternative solution was provided, which is a shame.
+I do however believe my solution to Problem 2 might be more complex than necessary, but no alternative solution was provided, which is a shame. -->
