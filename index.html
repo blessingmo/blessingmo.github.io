@@ -1,9 +1,4 @@
 <!DOCTYPE HTML>
-<!--
-	Template is called Forty by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
 <html>
 	<head>
 		<title>BlessingMo UoEO ePortfolio</title>
@@ -11,217 +6,79 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<style>
+			/* Add custom CSS for your menu */
+			#menu {
+				position: fixed;
+				top: 0;
+				left: -250px; /* Hide the menu by default */
+				width: 250px;
+				height: 100%;
+				background: #333;
+				overflow-y: auto;
+				transition: 0.5s;
+				padding-top: 60px;
+			}
+			#menu.show {
+				left: 0;
+			}
+			#menu ul {
+				list-style: none;
+				padding: 0;
+			}
+			#menu ul li {
+				padding: 15px;
+			}
+			#menu ul li a {
+				color: #fff;
+				text-decoration: none;
+				display: block;
+			}
+		</style>
 	</head>
 	<body class="is-preload">
 
 		<!-- Wrapper -->
-			<div id="wrapper">
+		<div id="wrapper">
 
-				<!-- Header -->
-					<header id="header" class="alt">
-						<a href="index.html" class="logo">Blessing Monsi</a>
-						<nav>
-							<a href="#menu">Menu</a>
-						</nav>
+			<!-- Header -->
+			<header id="header" class="alt">
+				<a href="index.html" class="logo">Blessing Monsi</a>
+				<nav>
+					<a href="javascript:void(0);" onclick="toggleMenu()" id="menu-button">Menu</a>
+				</nav>
+			</header>
+
+			<!-- Menu -->
+			<nav id="menu">
+				<ul class="links">
+					<li><a href="index.html">Home</a></li>
+					<li><a href="./sections/lcys.html">Launching into Cyber Security</a></li>
+					<li><a href="./sections/ns.html">Security Security</a></li>
+					<li><a href="./sections/ns.html">Network Security</a></li>
+					<li><a href="./sections/ssd.html">Secure Software Development</a></li>
+				</ul>
+			</nav>
+
+			<!-- Banner -->
+			<section id="banner" class="major">
+				<div class="inner">
+					<header class="major">
+						<h1>PG Cert. CyberSecurity ePortfolio</h1>
 					</header>
-
-				<!-- Menu -->
-					<nav id="menu">
-						<ul class="links">
-							<li><a href="index.html">Home</a></li>
-							<li><a href="./sections/lcys.html">Launching into Cyber Security</a></li>
-						</ul>
-					</nav>
-
-				<!-- Banner -->
-					<section id="banner" class="major">
-						<div class="inner">
-							<header class="major">
-								<h1>PG Cert. CyberSecurity ePortfolio</h1>
-							</header>
-							<div class="content">
-								<p>This ePortfolio aims to demonstrate the results of my PG Cert. studies in Cyber Security at the University of Essex, UK.</p>
-							</div>
-						</div>
-					</section>
-
-				<!-- Main -->
-					<div id="main">
-
-						<!-- About Me -->
-						<section id="two">
-							<div class="inner">
-								<header class="major">
-									<h2>Welcome</h2>
-								</header> 
-								<p>
-The purpose of this e-portfolio is to demonstrate the outcomes of my PG Certification studies in Cybersecurity at the University of Essex, United Kingdom.
-As you navigate Blessing's ePortfolio, I hope you find it practical and valuable. The real significance of this ePortfolio is in my learning experience, collaborative actions and reflections on my personal and educational development.
-In a nutshell, I am tenacious, passionate about learning and skill-building, curious about innovative technologies, and committed to adding value within cyberspace through self-motivation, skilled communication, collaboration and teamwork.
-
-								</p>
-							</div>
-						<section id="two">
-							<div class="inner">
-								<header class="major">
-									<h2>About Me</h2>
-								</header> 
-								<p>
-						I am a cybersecurity student currently studying at the University of Essex, an enthusiast with an interest in several cybersecurity domains.
-
-
-						</section>
-						
-
-						<!-- Modules -->
-							<section id="one" class="tiles">
-								<article>
-									<span class="image">
-										<img src="assets/images/index/hover01.jpg" alt="" />
-									</span>
-									<header class="major">
-										<h3><a href="sections/lcys.html" class="link">Launching into Cyber Security</a></h3>
-										<p>Topics: Importance of Cyber Security</p>
-									</header>
-								</article>
-								<article>
-							
-									<span class="image">
-										<img src="assets/images/index/hover01.jpg" alt="" />
-									</span>
-									<header class="major">
-										<h3><a href="sections/ns.html" class="link">Network Security</a></h3>
-										<p>Topic considerations: The impact of cyber security on network systems and designs.</p>
-									</header>
-								</article>
-								<article>
-								
-									<span class="image">
-										<img src="assets/images/index/hover01.jpg" alt="" />
-									</span>
-									<header class="major">
-										<h3><a href="sections/srm.html" class="link">Security and Risk Management</a></h3>
-										<p>Topic Considerations: Various areas where security and risk overlap, STRIDE</p>
-									</header>
-								</article>
-								<article>
-									<span class="image">
-										<img src="assets/images/index/hover04.jpg" alt="" />
-									</span>
-									<header class="major">
-										<h3><a href="sections/ssd.html" class="link">Secure Software Development</a></h3>
-										<p>Topic Considerations: Security risks associated with programming languages, Design and architecture approaches, testing and libraries.</p>
-									
-									</header>
-								</article>
-								<article>
-									<span class="image">
-										<img src="assets/images/index/hover05.jpg" alt="" />
-									</span>
-									<header class="major">
-										<h3><a href="index.html" class="link">The Human Factor</a></h3>
-						
-									
-									<!--	<h3><a href="index.html" class="link">Secure Systems Architecture</a></h3>
-									</header>
-									
-								</article>
-								<article>
-									<span class="image">
-										<img src="assets/images/index/hover01.jpg" alt="" />
-									</span>
-									<header class="major">
-										<h3><a href="index.html" class="link">Principles of Digital Forensics and Cyber Law</a></h3>
-									</header>
-								</article>
-								<article>
-									<span class="image">
-										<img src="assets/images/index/hover06.jpg" alt="" />
-									</span>
-									<header class="major">
-										<h3><a href="index.html" class="link">Research Methods and Professional Practice</a></h3>
-									</header>
-								</article>
-								<article>
-									<span class="image">
-										<img src="assets/images/index/hover01.jpg" alt="" />
-									</span>
-									<header class="major">
-								 	<h3><a href="index.html" class="link">PG Cert. Cyber Security Project</a></h3>
-									</header> 
-										-->
-								
-
-
-					</div> 
-
-				<!-- Contact -->
-					<section id="contact">
-						<div class="inner">
-							<section>
-								<form method="" action="">
-									<div class="fields">
-										<div class="field half">
-											<label for="name">Name</label>
-											<input type="text" name="name" id="name" />
-										</div>
-										<div class="field half">
-											<label for="email">Email</label>
-											<input type="text" name="email" id="email" />
-										</div>
-										<div class="field">
-											<label for="message">Message</label>
-											<textarea name="message" id="message" rows="6"></textarea>
-										</div>
-									</div>
-									<ul class="actions">
-										<li><input type="submit" value="Send Message" class="primary" /></li>
-										<li><input type="reset" value="Clear" /></li>
-									</ul>
-								</form>
-							</section>
-							<section class="split">
-								<section>
-									<div class="contact-method">
-										<span class="icon solid alt fa-envelope"></span>
-										<h3>Email</h3>
-										<p>bm23316@essex.ac.uk</p>
-									</div>
-								</section>
-								<section>
-									<div class="contact-method">
-										<span class="icon solid alt fa-home"></span>
-										<h3>Address</h3>
-										<span>Cardiff, United Kingdom</span>
-									</div>
-								</section>
-							</section>
-						</div>
-					</section>
-
-				<!-- Footer -->
-					<footer id="footer">
-						<div class="inner">
-							<ul class="icons">
-								<li><a href="https://github.com/blessingmo" class="icon brands alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
-								<li><a href="https://www.linkedin.com/in/blessingmo/" class="icon brands alt fa-linkedin-in" target="_blank"><span class="label">LinkedIn</span></a></li>
-							</ul>
-							<ul class="copyright">
-								<li>Blessing Monsi</li><li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
-							</ul>
-						</div>
-					</footer>
-
-			</div>
-
-		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrolly.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
-
+					<div class="content">
+						<p>This ePortfolio aims to demonstrate the results of my PG Cert. studies in Cyber Security at the University of Essex, UK.</p>
+					</div>
+				</div>
+			</section>
+		</div>
+		
+		<!-- JavaScript for menu toggle -->
+		<script>
+			function toggleMenu() {
+				var menu = document.getElementById("menu");
+				menu.classList.toggle("show");
+			}
+		</script>
 	</body>
 </html>
