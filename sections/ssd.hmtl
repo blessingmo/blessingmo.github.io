@@ -1,14 +1,12 @@
-
 <!DOCTYPE HTML>
-
-  <!--
+<!--
 	Template is called Forty by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
 	<head>
-		<title>Security and Risk Management - BlessingMo UoEO ePortfolio</title>
+		<title>Launching into Cyber Security - BlessingMo UoEO ePortfolio</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="../assets/css/main.css" />
@@ -32,7 +30,7 @@
 					<nav id="menu">
 						<ul class="links">
 							<li><a href="../index.html">Home</a></li>
-							<li><a href="../sections/lcys.html">Security and Risk Management </a></li>
+							<li><a href="../sections/lcys.html">Launching into Cyber Security</a></li>
 						</ul>
 					</nav>
 
@@ -41,7 +39,7 @@
 					<section id="banner" class="style1">
 						<div class="inner">
 							<header class="major">
-								<h1>Security and Risk Management</h1>
+								<h1>Launching into Cyber Security</h1>
 							</header>
 						</div>
 					</section>
@@ -56,17 +54,15 @@
 										<h2>Module Objectives</h2>
 									</header>
 									<ul>
-										<li>Understand and explain the difference between qualitative and quantitative risk assessments.</li>
-										<li>Describe how to carry out both kinds of assessments.</li>
-										<li>Explain what is meant by and how to create threat models.</li>
-										<li>Demonstrate how to create quantitative risk models.</li>
-										<li>Discuss and design DR solutions.</li>
-										<li>Create threat models for various scenarios.</li>
+										<li>Look at the importance of Cyber Security.</li>
+										<li>Review the skills and professional competencies required as a security professional.</li>
+										<li>Review the importance of ethics and governance framework within the context of Cyber Security.</li>
+										<li>Cover computing infrastructure including the internet and the world wide web.</li>
+										<li>Explore the types of security attacks and vulnerabilities in systems.</li>
+										<li>Discuss the types of networks, their configurations and security measures.</li>
 									</ul>
 								</div>
-
-  
-          </section>
+<!--							 </section>
 
 						<!-- Artefacts -->
 						<!--	<section id="two" class="spotlights">
@@ -93,20 +89,20 @@
 					<div id="main">
 
 						<!-- learning outcomes -->
-							<!-- <section id="one">
+						 <section id="one">
 								<div class="inner">
 									<header class="major">
 										<h2>Module Objectives</h2>
 									</header>
 									<ul>
-										<li>Understand the fundamentals of vulnerability assessment in various systems.</li>
+										<li>LUnderstand the fundamentals of vulnerability assessment in various systems.</li>
 										<li>Understand the fundamentals of the provision of security in information networks.</li>
-										<li>Be aware of the various protocols and architectures used by various network systems..</li>
+										<li>Be aware of the various protocols and architectures used by various network systems.</li>
 										<li>Understand the use and benefits of various monitoring and logging tools.</li>
-										<li>Create and use security vulnerability and assessment tools.</li>
+										<li>Understand how to create and use security vulnerability and assessment tools.</li>
 								
 									</ul>
-					
+						
 								</div>
 							</section>
 								<!-- Computer Ethics -->
@@ -235,7 +231,7 @@
 							<section id="three">
 								<div class="inner">
 									<header class="major">
-										<h2>Assignments; why Cyber Security is now a global issue and why it is important for companies to invest in Cyber Security.</h2>
+									<!--	<h2>Assignments; why Cyber Security is now a global issue and why it is important for companies to invest in Cyber Security.</h2>
 									</header>
 									<p>The following tasks were graded:</p>
 									<ul>
