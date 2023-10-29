@@ -1,5 +1,5 @@
 
-# MSc Cyber Security, Course Portfolio
+# Post-Graduate Certificate in Cyber Security, Course Portfolio
 
 Hi Welcome, please view my ePortfolio [here](https://blessingmo.github.io/), hosted using [GitHub Pages](https://pages.github.com/).
 
